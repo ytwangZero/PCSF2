@@ -1,0 +1,15 @@
+Package: PCSF2
+Type: Package
+Title: Perform PCSF
+Version: 1.0
+Date: 2025-11-13
+Author: PCSF
+Maintainer: PCSF <ytwangzero@outlook.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+License: GPL (>= 2)
+Imports:
+    Rcpp
+LinkingTo:
+    Rcpp,
+    BH
+SystemRequirements: C++11

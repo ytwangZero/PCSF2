@@ -1,0 +1,3 @@
+useDynLib(PCSF2, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+export(call_sr)
