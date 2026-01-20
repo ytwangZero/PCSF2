@@ -1,0 +1,1 @@
+PKG_CPPFLAGS = -I"$(R_HOME)/library/Rcpp/include" -I"$(BH_INCLUDE)"
